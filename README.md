@@ -76,12 +76,15 @@
 | [blockscout](https://github.com/Rygoatei/blockscout) | Elixir | Blockchain explorer data layer exploration |
 | [free-augmentcode](https://github.com/Rygoatei/free-augmentcode) | Python | AugmentCode VS Code plugin session management utility |
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rygoatei&show_icons=true&theme=tokyonight&hide_border=true" alt="Rygoatei's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rygoatei&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/Rygoatei?style=flat-square&logo=github&color=blue" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Rygoatei&style=flat-square&color=grey" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rygoatei?tab=repositories">View all repositories →</a>
 </p>
 
 ## Contact
