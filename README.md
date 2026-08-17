@@ -1,30 +1,29 @@
 <h1 align="center">Hi, I'm Ryan 👋</h1>
 
 <p align="center">
-  Full-stack backend engineer focused on <strong>TypeScript / Node.js</strong>, <strong>Go</strong>, <strong>Rust</strong>, <strong>Web3 data infrastructure</strong>, and <strong>AI-driven products</strong>.
+  Backend engineer, primarily <strong>Go</strong>, building Web3 data infrastructure, AI products, and trading systems.
 </p>
 
 <p align="center">
-  <a href="mailto:coolheadedyang@gmail.com">Email</a> •
-  <a href="https://github.com/Rygoatei?tab=repositories">Repositories</a>
+  <a href="mailto:coolheadedyang@gmail.com">Email</a>
 </p>
 
 ## About Me
 
-- Backend-first full-stack developer building high-throughput services and data pipelines.
-- Deep in Web3: on-chain indexing, Substreams, EVM/Solana data infra, and settlement flows.
-- Product-minded: I design APIs, data models, and trading/analytics systems end-to-end.
-- Currently exploring AI agents and LLM-powered web applications.
+- Go-first backend engineer who also works in Rust, TypeScript, and Node.js.
+- Build high-throughput services, on-chain data pipelines, and settlement flows.
+- Deep in Web3: Substreams, EVM/Solana indexing, and trading analytics.
+- Product-minded: I design APIs, data models, and backend architecture end-to-end.
+- Currently exploring AI agents and LLM-powered applications.
 
 ## Tech Stack
 
 ### Languages & Runtimes
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir" />
@@ -61,31 +60,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Featured Projects
+## Note
 
-| Project | Stack | What it is |
-|---|---|---|
-| [polymarket-substreams](https://github.com/Rygoatei/polymarket-substreams) | Rust | On-chain data indexing for Polymarket using Substreams |
-| [pnl-substreams](https://github.com/Rygoatei/pnl-substreams) | Rust | Profit & loss data pipelines for on-chain positions |
-| [evm_dex_pcs](https://github.com/Rygoatei/evm_dex_pcs) | Rust | EVM DEX (PancakeSwap-style) data processing |
-| [DogeLock](https://github.com/Rygoatei/DogeLock) | Solidity / TypeScript | Cross-chain token lock built with LayerZero OFTAdapter |
-| [DogeLockUpgradeable](https://github.com/Rygoatei/DogeLockUpgradeable) | TypeScript | Upgradeable variant of the DogeLock token contract |
-| [dogecoin-demo](https://github.com/Rygoatei/dogecoin-demo) | TypeScript | Dogecoin-related demo and tooling |
-| [simple-staking](https://github.com/Rygoatei/simple-staking) | TypeScript | Bitcoin staking dApp reference implementation |
-| [staking-site](https://github.com/Rygoatei/staking-site) | TypeScript | Frontend for staking interactions |
-| [blockscout](https://github.com/Rygoatei/blockscout) | Elixir | Blockchain explorer data layer exploration |
-| [free-augmentcode](https://github.com/Rygoatei/free-augmentcode) | Python | AugmentCode VS Code plugin session management utility |
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Rygoatei?style=flat-square&logo=github&color=blue" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Rygoatei&style=flat-square&color=grey" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rygoatei?tab=repositories">View all repositories →</a>
-</p>
+Most of my production work lives in private/company repositories. The public repos here are experiments, forks, and reference code.
 
 ## Contact
 
